@@ -3,7 +3,7 @@
 I'm **Mr. Eseosa**, a passionate Full-Stack Developer! 🚀
 
 💻 **Tech Stack:**
-- **Backend:** PHP, Python
+- **Backend:** PHP, Laravel, Python
 - **Frontend:** JavaScript, React.js
 
 🛠️ **What I Do:**
