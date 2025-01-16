@@ -7,7 +7,7 @@ I'm **Mr. Eseosa**, a passionate Full-Stack Developer! 🚀
 - **Frontend:** JavaScript, React.js
 
 🛠️ **What I Do:**
-- Craft robust and scalable web apps with PHP and Python 🐍
+- Craft robust and scalable web apps with PHP and Laravel
 - Create dynamic and responsive frontends with JavaScript and React.js ⚛️
 - Integrate seamless full-stack solutions that bring all ideas to life 🌟
 
